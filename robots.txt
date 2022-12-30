@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://shreeyansb.github.io/sitemap.xml
+Host: https://shreeyansb.github.io
